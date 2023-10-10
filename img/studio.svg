@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="267px" height="172px" viewBox="0 0 267 172" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 17</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Onepager" transform="translate(-175.000000, -3348.000000)" fill="#2D2F3B" stroke="#A4AFCC">
+            <g id="Group-17" transform="translate(177.000000, 3350.000000)">
+                <rect id="Rectangle" stroke-width="3" x="0" y="0" width="263.414634" height="168.292683" rx="30"></rect>
+                <g id="Group-3" transform="translate(36.585366, 32.926829)" stroke-width="2">
+                    <rect id="Rectangle" x="0" y="69.5121951" width="14.5532947" height="14.5532947" rx="3"></rect>
+                    <rect id="Rectangle" x="0" y="87.7038135" width="14.5532947" height="14.5532947" rx="3"></rect>
+                    <rect id="Rectangle" x="18.2926829" y="87.804878" width="14.5532947" height="14.5532947" rx="3"></rect>
+                    <rect id="Rectangle" x="18.1916184" y="69.5121951" width="14.5532947" height="14.5532947" rx="3"></rect>
+                    <rect id="Rectangle" x="36.5853659" y="69.5121951" width="14.5532947" height="14.5532947" rx="3"></rect>
+                    <rect id="Rectangle" x="0" y="0" width="102.439024" height="57.0731707" rx="10"></rect>
+                    <g id="Group" transform="translate(40.243902, 91.463415)">
+                        <rect id="Rectangle" x="0" y="3.83275261" width="8.04878049" height="1" rx="0.5"></rect>
+                        <rect id="Rectangle" x="3.83275261" y="0" width="1" height="8.04878049" rx="0.5"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

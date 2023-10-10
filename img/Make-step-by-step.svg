@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="90px" viewBox="0 0 90 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 8</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Onepager" transform="translate(-150.000000, -2309.000000)">
+            <g id="Group-8" transform="translate(150.000000, 2309.000000)">
+                <g id="Rectangle-2" fill="#2D7BE7" opacity="0.3">
+                    <rect id="Rectangle" x="0" y="0" width="90" height="90" rx="30"></rect>
+                </g>
+                <rect id="Rectangle" fill="#007DFE" x="10" y="10" width="70" height="70" rx="20"></rect>
+                <g id="Group" transform="translate(26.000000, 27.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                    <rect id="Rectangle" x="17.4293263" y="15.8005284" width="21.1505945" height="3.25759577"></rect>
+                    <polygon id="Path" points="4.41083223 22.9815059 0 18.5706737 2.30647292 16.2760898 4.41083223 18.3804491 9.77278732 13.0184941 12.0673712 15.324967"></polygon>
+                    <rect id="Rectangle" x="17.4293263" y="2.78203435" width="21.1505945" height="3.25759577"></rect>
+                    <polygon id="Path" points="4.41083223 9.96301189 0 5.55217966 2.30647292 3.25759577 4.41083223 5.36195509 9.77278732 0 12.0673712 2.30647292"></polygon>
+                    <rect id="Rectangle" x="17.4293263" y="28.8190225" width="21.1505945" height="3.25759577"></rect>
+                    <polygon id="Path" points="4.41083223 36 0 31.6010568 2.30647292 29.2945839 4.41083223 31.3989432 9.77278732 26.0369881 12.0673712 28.343461"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

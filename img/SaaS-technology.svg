@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="140px" height="140px" viewBox="0 0 140 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 33</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Onepager" transform="translate(-1110.000000, -7587.000000)">
+            <g id="Group-33" transform="translate(1110.000000, 7587.000000)">
+                <rect id="Rectangle" fill="#007DFE" opacity="0.3" x="0" y="0" width="140" height="140" rx="50"></rect>
+                <rect id="Rectangle" fill="#007DFE" x="10" y="10" width="120" height="120" rx="40"></rect>
+                <path d="M89.2257143,63.76 C88.4457143,53.8364286 80.1207143,46 70,46 C61.3428571,46 53.9114286,51.6228571 51.5114286,59.8235714 C44.6735714,62.1978571 40,68.6778571 40,76 C40,85.4521429 47.6907143,93.1428571 57.1428571,93.1428571 L85,93.1428571 C93.2692857,93.1428571 100,86.4121429 100,78.1428571 C100,71.395 95.5642857,65.6028571 89.2257143,63.76 Z" id="XMLID_348_-path" stroke="#FFFFFF" stroke-width="4" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

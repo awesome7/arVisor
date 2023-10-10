@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="90px" viewBox="0 0 90 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 19</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Onepager" transform="translate(-150.000000, -2549.000000)">
+            <g id="Group-19" transform="translate(150.000000, 2549.000000)">
+                <g id="Rectangle-2" fill="#2D7BE7" opacity="0.3">
+                    <rect id="Rectangle" x="0" y="0" width="90" height="90" rx="30"></rect>
+                </g>
+                <rect id="Rectangle" fill="#007DFE" x="10" y="10" width="70" height="70" rx="20"></rect>
+                <g id="Group-13" transform="translate(27.000000, 30.000000)" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="3">
+                    <polyline id="Path" points="24.5514494 21.2665427 18.0067726 14.721866 11.4620959 21.2665427"></polyline>
+                    <line x1="18.0067726" y1="14.721866" x2="18.0067726" y2="29.4473886" id="Path"></line>
+                    <path d="M31.7342321,25.1769871 C35.0170221,23.3873053 36.6687109,19.5997143 35.7464578,15.9763015 C34.8242048,12.3528887 31.5627267,9.81582696 27.8237877,9.8133584 L25.7622146,9.8133584 C24.4059631,4.56749691 19.9577919,0.699529096 14.5744226,0.084861603 C9.19105336,-0.52980589 3.9854557,2.23590466 1.48159389,7.04102243 C-1.02226793,11.8461402 -0.306739947,17.6972445 3.28124993,21.7573935" id="Path"></path>
+                    <polyline id="Path" points="24.5514494 21.2665427 18.0067726 14.721866 11.4620959 21.2665427"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

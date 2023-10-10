@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="413.617191px" height="431.234383px" viewBox="0 0 413.617191 431.234383" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 18</title>
+    <defs>
+        <path d="M331.031049,414 C392.387099,361.146852 431.234383,282.884383 431.234383,195.548272 C431.234383,120.075617 402.224568,51.3794444 354.748025,0 L0,0 L0,414 L331.031049,414 Z" id="path-1"></path>
+        <linearGradient x1="16.3593201%" y1="81.5246754%" x2="76.3182046%" y2="25.337338%" id="linearGradient-3">
+            <stop stop-color="#181921" offset="0%"></stop>
+            <stop stop-color="#2F303B" offset="100%"></stop>
+        </linearGradient>
+        <path d="M327.592468,288.209888 C327.592468,129.03569 198.555309,0 39.3825309,0 C26.2097543,-0.00366051003 13.0519466,0.887630472 0,2.66772735 L0,354.038159 L320.039321,354.038159 C325.072454,332.457545 327.606803,310.369652 327.592468,288.209888" id="path-4"></path>
+        <linearGradient x1="21.1973598%" y1="84.2039845%" x2="72.5332478%" y2="23.2412373%" id="linearGradient-6">
+            <stop stop-color="#181921" offset="0%"></stop>
+            <stop stop-color="#2F303B" offset="100%"></stop>
+        </linearGradient>
+        <path d="M232.047284,239.872963 C213.702654,118.672901 119.876852,22.2390123 0,0 L0,239.872963 L232.047284,239.872963 Z" id="path-7"></path>
+        <linearGradient x1="18.5185198%" y1="84.2039845%" x2="74.6289921%" y2="23.2412373%" id="linearGradient-9">
+            <stop stop-color="#181921" offset="0%"></stop>
+            <stop stop-color="#2F303B" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Onepager-moble" transform="translate(0, -2376.3828)">
+            <g id="Group-18" transform="translate(206.6172, 2592) rotate(-90) translate(-206.6172, -2592)translate(-9, 2385)">
+                <g id="Clipped" transform="translate(0, -0)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Path"></g>
+                    <rect id="Rectangle" fill="url(#linearGradient-3)" fill-rule="nonzero" mask="url(#mask-2)" x="0" y="0" width="431.234383" height="414"></rect>
+                </g>
+                <g id="Clipped" transform="translate(-0, 59.9618)">
+                    <mask id="mask-5" fill="white">
+                        <use xlink:href="#path-4"></use>
+                    </mask>
+                    <g id="Path"></g>
+                    <rect id="Rectangle" fill="url(#linearGradient-6)" fill-rule="nonzero" mask="url(#mask-5)" x="2.80220901e-14" y="1.12984368e-05" width="327.592407" height="354.038148"></rect>
+                </g>
+                <g id="Clipped" transform="translate(0, 174.127)">
+                    <mask id="mask-8" fill="white">
+                        <use xlink:href="#path-7"></use>
+                    </mask>
+                    <g id="Path"></g>
+                    <rect id="Rectangle" fill="url(#linearGradient-9)" fill-rule="nonzero" mask="url(#mask-8)" x="0" y="0" width="232.047284" height="239.872963"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
