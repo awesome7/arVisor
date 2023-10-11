@@ -362,6 +362,9 @@
             <div class="third">
                   <i class="fas fa-check"></i><p>Consulting</p>
             </div>
+            <div class="third">
+                  <i class="fas fa-check"></i><p>Artificial intelligence</p>
+            </div>
           </div>
       </div>
     </div>
@@ -369,15 +372,32 @@
       <div class="container">
         <h2>Let's talk business</h2>
         <p>Thank you for reading. <span> We value your time.</span></p>
-        <div class="contact-form">
-          <a class="button" href="mailto:office@awesome7.com">Contact us</a>
+        <!-- <div class="contact-form"> -->
+          <form class="contact-form">
+                <div id="email-message"></div>
+                <div>
+                  <input id="subject" name="subject" type="text" placeholder="Name*">
+                </div>
+                <div>
+                  <input id="toAddress" name="toAddress" type="email" placeholder="Email*">
+                </div>
+                <textarea rows="1" id="messageBody" name="messageBody" placeholder="Message*"></textarea>
+                <div class="clearfix">
+                  <input id="policy" name="policy" type="checkbox">
+                  <label for="policy">I have read and agree with the <a href="https://awesome7.com/privacypolicy.html" target="_blank">Privacy Policy</a></label>
+                </div>
+                <div class="form-action">
+                  <input id="sendMail" type="submit" class="submit" value="Send →" disabled="disabled">
+                </div>
+              </form>
+          <!-- <a class="button" href="mailto:office@awsome7.com">Contact us</a> -->
           <!-- <form  class="form-horizontal" method="post" action="https://formsubmit.co/477f0bcb6b6b8e990a9c98423c3c9dce" method="POST">">
               <input type="text" id="name" name="name" placeholder="Name*">
               <input type="email" id="email" name="email" placeholder="Email*">
               <textarea id="message" name="message" placeholder="Message*"></textarea>
               <input type="submit" value="Send">
         </form> -->
-        </div>
+        <!-- </div> -->
         <div class="contact-bottom">
           <div class="info">
             <p>Office:</p>
@@ -397,6 +417,8 @@
       </div>
     </div>
   </div>
+
+  <script src="js/app.js"></script>
 <script>
 $('.slick-item').slick({
       infinite: false,
